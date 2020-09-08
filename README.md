@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 </html>
 
 ### Pinned projects
-[![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=ANONYM-ANONYM&repo=gold-bot&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/ANONYM-ANONYM/gold-bot)
+[![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=ANONYM-ANONYM&repo=gold-bot&theme=blue-green&show_icons=true)](https://github.com/ANONYM-ANONYM/gold-bot)
 
-[![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=ANONYM-ANONYM&repo=INVITES.GA&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/ANONYM-ANONYM/INVITES.GA)
+[![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=ANONYM-ANONYM&repo=INVITES.GA&theme=blue-green&show_icons=true)](https://github.com/ANONYM-ANONYM/INVITES.GA)
