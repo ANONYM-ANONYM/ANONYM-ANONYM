@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ANONYM-ANONYM&theme=blue-green&show_icons=true)](https://anonym-dev.tk)
-
+<html>
 <br>
 <p>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </p>
 <br>
+</html>
+
 ### Pinned projects
 [![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=ANONYM-ANONYM&repo=gold-bot&theme=blue-green)](https://github.com/ANONYM-ANONYM/gold-bot)
-
 [![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=ANONYM-ANONYM&repo=INVITES.GA&theme=blue-green)](https://github.com/ANONYM-ANONYM/INVITES.GA)
