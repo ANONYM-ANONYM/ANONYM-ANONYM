@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </p>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<br>
+<a href="https://github.com/ANONYM-ANONYM/gold-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ANONYM-ANONYM&repo=gold-bot&theme=blue-green" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/ANONYM-ANONYM/INVITES.GA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ANONYM-ANONYM&repo=INVITES.GA&theme=blue-green" />
 </a>
