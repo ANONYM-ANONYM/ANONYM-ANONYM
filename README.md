@@ -33,4 +33,5 @@ Here are some ideas to get you started:
 
 ### Pinned projects
 [![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=ANONYM-ANONYM&repo=gold-bot&theme=blue-green)](https://github.com/ANONYM-ANONYM/gold-bot)
+
 [![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=ANONYM-ANONYM&repo=INVITES.GA&theme=blue-green)](https://github.com/ANONYM-ANONYM/INVITES.GA)
