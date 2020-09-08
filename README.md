@@ -31,7 +31,5 @@ Here are some ideas to get you started:
 <br>
 <a href="https://github.com/ANONYM-ANONYM/gold-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ANONYM-ANONYM&repo=gold-bot&theme=blue-green" />
-</a>
-<a href="https://github.com/ANONYM-ANONYM/INVITES.GA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ANONYM-ANONYM&repo=INVITES.GA&theme=blue-green" />
-</a>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ANONYM-ANONYM&repo=INVITES.GA&theme=blue-green)](https://github.com/ANONYM-ANONYM/INVITES.GA)
