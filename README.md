@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </p>
 <br>
 </html>
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ANONYM-ANONYM.ANONYM-ANONYM)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ANONYM-ANONYM.ANONYM-ANONYM)
+
 ## Pinned projects
 [![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=ANONYM-ANONYM&repo=gold-bot&theme=blue-green&show_icons=true)](https://github.com/ANONYM-ANONYM/gold-bot)
 
