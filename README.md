@@ -4,6 +4,9 @@ I can create custom Discord bot🤖/web for you. If you are interested feel free
 
 ##### 🌐 Web : https://anonym-dev.tk
 ##### 📩 Email: anonym@anonym-dev.tk
+##### 📄 Documentation: https://docs.anonym-dev.tk
+##### 💬 Forum: https://forum.anonym-dev.tk
+##### 🧰 Status: https://status.anonym-dev.tk
 
 
 
