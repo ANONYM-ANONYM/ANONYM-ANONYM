@@ -36,6 +36,9 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ANONYM-ANONYM.ANONYM-ANONYM)
 
+[![Status](https://status.anonym-dev.tk/index.svg)](https://status.anonym-dev.tk)
+
+
 ## Pinned projects
 [![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=ANONYM-ANONYM&repo=gold-bot&theme=blue-green&show_icons=true)](https://github.com/ANONYM-ANONYM/gold-bot)
 
