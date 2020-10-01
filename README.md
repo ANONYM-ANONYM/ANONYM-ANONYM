@@ -38,7 +38,9 @@ Here are some ideas to get you started:
 
 [![Status](https://status.anonym-dev.tk/index.svg)](https://status.anonym-dev.tk)
 
-[![GitHub followers](https://img.shields.io/github/followers/ANONYM-ANONYM.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ANONYM-ANONYM?tab=followers)
+[![Website](https://img.shields.io/website?down_color=red&down_message=Down&label=Website&up_color=green&up_message=Up&url=https%3A%2F%2Fanonym-dev.tk%2F)](https://anonym-dev.tk)
+
+[![GitHub followers](https://img.shields.io/github/followers/ANONYM-ANONYM.svg?style=flat&label=Follow&maxAge=2592000)](https://github.com/ANONYM-ANONYM)
 
 
 ## Pinned projects
