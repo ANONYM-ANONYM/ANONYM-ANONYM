@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 
 [![Status](https://status.anonym-dev.tk/index.svg)](https://status.anonym-dev.tk)
 
+[![GitHub followers](https://img.shields.io/github/followers/ANONYM-ANONYM.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ANONYM-ANONYM?tab=followers)
+
 
 ## Pinned projects
 [![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=ANONYM-ANONYM&repo=gold-bot&theme=blue-green&show_icons=true)](https://github.com/ANONYM-ANONYM/gold-bot)
