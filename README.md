@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ANONYM-ANONYM.ANONYM-ANONYM)
 
-[![Status](https://status.anonym-dev.tk/index.svg)](https://status.anonym-dev.tk)
+[![Status-badge](https://status.anonym-dev.tk/index.svg)](https://status.anonym-dev.tk)
 
 [![Website](https://img.shields.io/website?down_color=red&down_message=Down&label=Website&up_color=green&up_message=Up&url=https%3A%2F%2Fanonym-dev.tk%2F)](https://anonym-dev.tk)
 
