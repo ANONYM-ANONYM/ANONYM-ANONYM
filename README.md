@@ -2,11 +2,11 @@
 I am Discord.js, Node.js and web developer. <br>
 I can create custom Discord bot🤖/web for you. If you are interested feel free to contact me!
 
-##### 🌐 Web : https://anonym-dev.tk
-##### 📩 Email: anonym@anonym-dev.tk
-##### 📄 Documentation: https://docs.anonym-dev.tk
-##### 💬 Forum: https://forum.anonym-dev.tk
-##### 🧰 Status: https://status.anonym-dev.tk
+##### 🌐 Web : [https://anonym-dev.tk](https://anonym-dev.tk)
+##### 📩 Email: [anonym@anonym-dev.tk](mailto:anonym@anonym-dev.tk)
+##### 📄 Documentation: [https://docs.anonym-dev.tk](https://docs.anonym-dev.tk)
+##### 💬 Forum: [https://forum.anonym-dev.tk](https://forum.anonym-dev.tk)
+##### 🧰 Status: [https://status.anonym-dev.tk](https://status.anonym-dev.tk)
 
 
 
